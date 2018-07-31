@@ -1,2 +1,4 @@
+[![Build Status](https://travis-ci.org/hanamotokazuya/pimouse_ros.svg?branch=master)](https://travis-ci.org/hanamotokazuya/pimouse_ros)
+
 # pimouse_ros
-6.3章
+For ROS practice
